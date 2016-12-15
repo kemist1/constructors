@@ -1,0 +1,19 @@
+{
+  "name": "constructors",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemist1/constructors.git"
+  },
+  "author": "josh O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kemist1/constructors/issues"
+  },
+  "homepage": "https://github.com/kemist1/constructors#readme"
+}
